@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: sparkjava
-        image: 861531569385.dkr.ecr.eu-west-2.amazonaws.com/sparkjava
+        image: 357898765396.dkr.ecr.ap-southeast-1.amazonaws.com/k8s-pipeline:1
         ports:
         - containerPort: 8080
